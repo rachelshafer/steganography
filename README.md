@@ -6,7 +6,7 @@ The objective of this project was to develop a program that takes data in the fo
 https://rachelshafer.github.io/steganography.html
 
 # Credits
-Encoders and Decoders by Rachel Shafer
-UI by Natalie Shafer
+Encoders and Decoders by Rachel Shafer<br>
+UI by Natalie Shafer<br>
 SRS, user manual, and other documentation by Natalie Shafer, Rachel Shafer, Jonathan Wallace, and Colden Deaja
 
